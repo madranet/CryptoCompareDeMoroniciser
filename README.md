@@ -2,7 +2,7 @@
 
 This is just a Set of uBlock Origin rules which attempt to clean up the CryptoCompare website by removing the moronic junk such as; flashing ads, infantile discussion forum, useless guides, so-called news, etc] and just leaving the latest price charts and your portfolio.
 
-*NOTE: these are just the rule I use to make the site palatable. they may remove stuff you actually want to see. Tweak as necessary*
+*NOTE: these are just the rules I use to make the site palatable. They may remove stuff you actually want to see. Tweak as necessary*
 
 ## Usage
 
