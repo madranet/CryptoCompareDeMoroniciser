@@ -1,0 +1,19 @@
+! cryptocompare demoroniciser rules –updated 2019-04-16
+www.cryptocompare.com##ad-ccdas
+www.cryptocompare.com##followers-info-box.ng-isolate-scope
+www.cryptocompare.com###tab-content-0 > .ng-isolate-scope.ng-scope > ._md.ng-scope.md-padding > .ng-scope > .ng-binding.coin-description
+www.cryptocompare.com##.wrapper-forum
+www.cryptocompare.com##.ng-scope.wrapper-sponsored
+www.cryptocompare.com##similar-items.ng-isolate-scope > .panel-similar.panel-sidebar.panel
+www.cryptocompare.com##li.hidden-sm.dropdown:nth-of-type(2)
+www.cryptocompare.com##li.hidden-md.hidden-sm.hidden-xs.dropdown:nth-of-type(3)
+www.cryptocompare.com##li.hidden-md.hidden-sm.hidden-xs.dropdown:nth-of-type(5)
+www.cryptocompare.com##li.hidden-md.hidden-sm.hidden-xs.dropdown:nth-of-type(4)
+www.cryptocompare.com##li.hidden-md.hidden-sm.hidden-xs.dropdown:nth-of-type(7)
+www.cryptocompare.com##.ng-scope.footer
+www.cryptocompare.com##._md.ng-scope.md-padding > .portfolio-caution
+www.cryptocompare.com##p.portfolio-explanation:nth-of-type(1)
+www.cryptocompare.com##p.portfolio-explanation:nth-of-type(2)
+www.cryptocompare.com##p.portfolio-explanation:nth-of-type(3)
+www.cryptocompare.com##.section-guides.section
+www.cryptocompare.com##.clearfix.pc-text-wrapper
