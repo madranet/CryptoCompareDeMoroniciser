@@ -4,6 +4,10 @@ This is just a Set of uBlock Origin rules which attempt to clean up the CryptoCo
 
 Use 'Import and Append' under uBlock Origin's "My Filters" tab in the dashboard.
 
-### Before CryptoCompareDeMoroniciser
+### Before CryptoCompareDeMoroniciser...
 
 ![](weeCC-2019.04.16-12-47-35.png)
+
+### After CryptoCompareDeMoroniciser...
+
+![](weeCC2019.04.16-12-48-07.png)
